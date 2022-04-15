@@ -33,6 +33,8 @@
       ul li:hover:not(.active) 
       {
          background-color: black;
+            box-shadow:white;
+            text-shadow:2px 3px white;
         
        }
         </style>
