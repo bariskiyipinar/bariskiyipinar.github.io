@@ -27,10 +27,6 @@
       
       ul li.active {
          background-color: black;
-      
-         
-        text-shadow:2px 3px 4 px white;
-            
          transform: translateX(-3px);
                      }
       
@@ -38,6 +34,5 @@
       {
          background-color: black;
         
-         text-shadow: 2px 3px 4px white;
        }
         </style>
