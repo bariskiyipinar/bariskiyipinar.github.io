@@ -27,7 +27,7 @@
       
       ul li.active {
          background-color: black;
-         border-bottom:3px solid white;
+      
          
         text-shadow:2px 3px 4 px white;
             
@@ -37,7 +37,7 @@
       ul li:hover:not(.active) 
       {
          background-color: black;
-         border-bottom:3px solid white;
+        
          text-shadow: 2px 3px 4px white;
        }
         </style>
