@@ -29,10 +29,7 @@
          background-color: black;
          border-bottom:3px solid white;
          
-         box-shadow:
-               1px 1px white,
-               2px 2px white,
-               3px 3px white;
+        text-shadow:2px 3px 4 px white;
             
          transform: translateX(-3px);
                      }
