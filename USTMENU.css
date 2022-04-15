@@ -1,0 +1,46 @@
+      <style>
+
+         ul {
+     padding: 0;
+     margin: 0;
+     list-style-type:none;
+     background-color: black;
+         overflow:auto;
+            }
+      
+      ul li {
+         float:left;
+         border-bottom:3px solid black;
+             }
+      
+      ul li.menusag{
+         float:right;
+             }
+      
+      ul li a {
+         display: inline-block;
+         padding: 12px 24px;
+         text-decoration: none;
+         color: #fff;
+         font-size: 18px;
+                }
+      
+      ul li.active {
+         background-color: black;
+         border-bottom:3px solid white;
+         
+         box-shadow:
+               1px 1px white,
+               2px 2px white,
+               3px 3px white;
+            
+         transform: translateX(-3px);
+                     }
+      
+      ul li:hover:not(.active) 
+      {
+         background-color: black;
+         border-bottom:3px solid white;
+         text-shadow: 2px 3px 4px white;
+       }
+        </style>
