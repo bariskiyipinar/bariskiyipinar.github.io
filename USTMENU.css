@@ -28,14 +28,12 @@
       ul li.active {
          background-color: black;
          transform: translateX(-3px);
-            box-shadow:white;
             text-shadow:2px 3px white;
                      }
       
       ul li:hover:not(.active) 
       {
          background-color: black;
-            box-shadow:white;
             text-shadow:2px 3px white;
         
        }
